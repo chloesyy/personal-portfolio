@@ -1,6 +1,6 @@
 header {
     height: 100vh;
-    padding-top: 7rem;
+    padding-top: 5rem;
     overflow: hidden;
 }
 
@@ -62,12 +62,12 @@ header {
 /* ------------- MEDIA QUERIES (MEDIUM) ------------ */
 @media screen and (max-width: 1024px) {
     header {
-        height: 68vh;
+        height: 65vh;
     }
 }
 
 /* ------------- MEDIA QUERIES (SMALL) ------------ */
-@media screen and (max-width: 600) {
+@media screen and (max-width: 600px) {
     header {
         height: 100vh;
     }
