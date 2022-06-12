@@ -1,7 +1,7 @@
 .services__container {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 3rem;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
 }
 
 .service {
@@ -31,6 +31,12 @@
     text-align: center;
 }
 
+.service__head h4 {
+    color: var(--color-bg-variant);
+    font-size: 0.8rem;
+    text-align: center;
+}
+
 .service__list {
     padding: 2rem;
 }
@@ -47,6 +53,7 @@
 }
 
 .service__list p {
+    width: 90%;
     font-size: 0.9rem;
 }
 

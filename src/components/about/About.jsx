@@ -38,7 +38,7 @@ const About = () => {
                 </div>
 
                 <p>
-                    Hello! I'm a postgraduate student at NUS in MSc Business Analytics, and graduated from NUS Computer Engineering in May 2022. I have experience in Data/AI Engineering and am always looking to challenge myself through projects and new experiences.
+                    Hello! I'm a postgraduate student at NUS in MSc Business Analytics, and I graduated from NUS Computer Engineering in May 2022. I have experience in Data/AI Engineering and am always looking to challenge myself through projects and new experiences. 
                 </p>
 
                 <a href="#contact" className='btn btn-primary'>Let's Talk</a>
