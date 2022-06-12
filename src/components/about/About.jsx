@@ -33,12 +33,12 @@ const About = () => {
                     <article className='about__card'>
                         <VscFolderLibrary className='about__icon'/>
                         <h5>Projects</h5>
-                        <small>10+ Completed</small>
+                        <small>Data/AI-related</small>
                     </article>
                 </div>
 
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, a doloremque error maxime est porro similique consectetur minus provident quod eveniet aliquam sunt nemo quam voluptates mollitia quibusdam possimus tempore.
+                    Hello! I'm a postgraduate student at NUS in MSc Business Analytics, and graduated from NUS Computer Engineering in May 2022. I have experience in Data/AI Engineering and am always looking to challenge myself through projects and new experiences.
                 </p>
 
                 <a href="#contact" className='btn btn-primary'>Let's Talk</a>
