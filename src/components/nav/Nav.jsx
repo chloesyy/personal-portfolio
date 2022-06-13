@@ -10,6 +10,7 @@ import {useState} from 'react'
 const Nav = () => {
     const [activeNav, setActiveNav] = useState('#');
 
+    // Highlight nav on scroll
     const sections = document.querySelectorAll(['section', 'header']);
     window.addEventListener('scroll', () => {
         let current = '';
